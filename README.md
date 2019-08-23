@@ -82,3 +82,8 @@
 	- https://github.com/tensorlayer/tensorlayer/tree/master/docs
 	- https://tensorlayer.readthedocs.io
 - [RST and Sphinx syntax](https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html)
+
+## 7. 远程连接
+- MacOS - [Cyberduck](https://cyberduck.io)
+- Windows - [MobaXterm](https://mobaxterm.mobatek.net)
+- PyCharm
