@@ -44,7 +44,7 @@
 - git checkout -b new2 创建并进入branch名为new2
 - 修改branch后，commit到Github上，如何在github上发起Push Request
 - .gitignore 自定义不能被添加的文件
-- 添加好友
+- 添加collaborator
 - 新建organization
 - **练习：建立自己的个人主页**
 
