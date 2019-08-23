@@ -49,6 +49,7 @@
 - **练习：建立自己的个人主页**
 
 ## 3. GPU
+- 目的
 - nvidia-smi  
 - sudo fuser -v /dev/nvidia*
 - sudo kill -9 PID
@@ -68,6 +69,7 @@
 - screen -X -S name kill 删除screen
 
 ## 5. 文档
+- 目的
 - [Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Readthedoc](https://readthedocs.org)
 	- https://github.com/tensorlayer/tensorlayer/tree/master/docs
