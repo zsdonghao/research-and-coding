@@ -70,7 +70,7 @@
 ## 5. Virtualenv
 - 目的
 - https://tensorlayer.readthedocs.io/en/latest/user/installation.html
-- pip3 install virtualenv 按照virtualenv
+- pip3 install virtualenv 安装virtualenv
 - virtualenv env 新建环境
 - source env/bin/activate 进入环境
 - deactivate 退出环境
