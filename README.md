@@ -26,9 +26,10 @@ https://zhuanlan.zhihu.com/p/25099638
 - git add -A
 - git commit -m "hahahah"
 - git push
+- git clone https://github.com/account/repository.git
 - 如何在网站上修改
 - git pull
-- git branch 
+- git branch
 
 ## Screen
 - screen -S name 创建screen，并进入
