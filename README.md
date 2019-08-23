@@ -58,7 +58,6 @@
 - CUDA_VISIBLE\_DEVICES=“” python xxx.py 不使用GPU
 - python xxx.py > train.log &    把输出放入train.log（>）; 不显示输出（&）
 
-
 ## 4. Screen
 - 目的
 - screen -S name 创建screen，并进入
@@ -68,7 +67,11 @@
 - screen -d name 关闭screen
 - screen -X -S name kill 删除screen
 
-## 5. 文档
+## 5. Virtualenv
+- 目的
+- https://tensorlayer.readthedocs.io/en/latest/user/installation.html
+
+## 6. 文档
 - 目的
 - [Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Readthedoc](https://readthedocs.org)
