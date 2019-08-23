@@ -50,9 +50,9 @@
 
 ## 3. GPU
 - 目的
-- nvidia-smi  
-- sudo fuser -v /dev/nvidia*
-- sudo kill -9 PID
+- nvidia-smi 查看GPU使用情况
+- sudo fuser -v /dev/nvidia* 查看GPU使用者
+- sudo kill -9 PID 杀掉进程
 - CUDA_VISIBLE\_DEVICES=0 python xxx.py 指定GPU0
 - CUDA_VISIBLE\_DEVICES=0,1 python xxx.py 制定GPU0和1
 - CUDA_VISIBLE\_DEVICES=“” python xxx.py 不使用GPU
