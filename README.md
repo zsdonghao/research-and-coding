@@ -3,13 +3,13 @@
 ## 1. 科研起步
 
 ### 必读文章
-- 1.[Karpathy博士经验](http://karpathy.github.io/2016/09/07/phd/)[(翻译)](https://m.sohu.com/a/125259752_465975/?pvid=000115_3w_a)
+- 1.[Karpathy-博士经验](http://karpathy.github.io/2016/09/07/phd/)[(翻译)](https://m.sohu.com/a/125259752_465975/?pvid=000115_3w_a)
 - 2.[陈天奇-科研十年](https://zhuanlan.zhihu.com/p/74779853)
 - 3.[王一-科研idea](https://mp.weixin.qq.com/s/e78zRIgdEtGLKiqYcRJLHQ)
 - 4.[王赟-我的八年博士生涯](https://zhuanlan.zhihu.com/p/50597445)
-- 5.[李沐博士这五年](https://zhuanlan.zhihu.com/p/25099638)
+- 5.[李沐-博士这五年](https://zhuanlan.zhihu.com/p/25099638)
 - 6.[毕业撒花](https://mp.weixin.qq.com/s/j8EuhusTNlE60m8IC4ftGA)
-- 7.[帝国理工博士手册（Doctoral Milestones）](https://www.doc.ic.ac.uk/research/phd/phdmatters/handbook_PhD_2018.pdf)
+- 7.[帝国理工-博士手册（Doctoral Milestones）](https://www.doc.ic.ac.uk/research/phd/phdmatters/handbook_PhD_2018.pdf)
 
 
 ### 信息收集
