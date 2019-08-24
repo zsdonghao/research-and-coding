@@ -57,6 +57,7 @@
 - CUDA_VISIBLE\_DEVICES=0,1 python xxx.py 指定GPU0和1
 - CUDA_VISIBLE\_DEVICES=“” python xxx.py 不使用GPU
 - python xxx.py > train.log &    把输出放入train.log（>）; 不显示输出（&）
+- CPU & GPU
 - top
 - htop
 
