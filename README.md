@@ -11,13 +11,13 @@
 - 6.[毕业撒花](https://mp.weixin.qq.com/s/j8EuhusTNlE60m8IC4ftGA)
 - 7.[帝国理工-博士手册（Doctoral Milestones）](https://www.doc.ic.ac.uk/research/phd/phdmatters/handbook_PhD_2018.pdf)
 
-
 ### 信息收集
 - 1.[Google Scholar 如何查询相关文章](https://scholar.google.co.uk/scholar?hl=en&as_sdt=0%2C5&q=semantic+image+synthesis+via+adversarial+learning&btnG=)
 - 2.[Google Scholar 如何follow研究者](https://scholar.google.co.uk/citations?user=xLFL4sMAAAAJ&hl=en)
 - 3.[arXiv](https://arxiv.org)
 - 4.[arXiv-sanity](http://www.arxiv-sanity.com)
 - 5.[sci-hub](https://sci-hub.se) 例如输入这个：https://ieeexplore.ieee.org/document/8070331/
+- 6.[mendeley](https://www.mendeley.com)
 
 ### 其他
 - 1.[蓝灯](https://github.com/getlantern/forum) 邀请码 Y238YKH
