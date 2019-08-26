@@ -72,7 +72,7 @@
 
 ## 5. Virtualenv
 - 目的
-- https://tensorlayer.readthedocs.io/en/latest/user/installation.html
+- [Installation](https://tensorlayer.readthedocs.io/en/latest/user/installation.html)
 - pip3 install virtualenv 安装virtualenv
 - virtualenv env 新建环境
 - source env/bin/activate 进入环境
@@ -102,10 +102,10 @@
 ## 9. Deep Learning 等
 - [NIPS 19 Subject Areas](https://nips.cc/Conferences/2019/PaperInformation/SubjectAreas)
 - [CVPR 19 Program Guide](http://cvpr2019.thecvf.com/files/CVPR_2019_Program_Guide.pdf)
+- [CVPR 19 Paper list](http://openaccess.thecvf.com/CVPR2019.py)
 - [zsdonghao/deep-learning-note](https://github.com/zsdonghao/deep-learning-note)
 - [Distributed Training](https://blog.skymind.ai/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks/)
 - [TingFlow](https://github.com/tqchen/tinyflow) 教学性DL框架
-- [CVPR 2019 Paper list](http://openaccess.thecvf.com/CVPR2019.py)
 
 ## 10. Publishing Paper
 - [Conference DDL](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
