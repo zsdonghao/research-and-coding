@@ -104,4 +104,5 @@
 - [Distributed Training](https://blog.skymind.ai/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks/)
 
 ## 10. Publishing Paper
-- [Conferences DDL](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
+- [Conference DDL](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
+- [Grammarly](https://app.grammarly.com) 查语法错误
