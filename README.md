@@ -53,6 +53,7 @@
 ## 3. GPU
 - 目的
 - nvidia-smi 查看GPU使用情况
+- watch -n 1 nvidia-smi：每秒钟刷新GPU使用情况
 - sudo fuser -v /dev/nvidia* 查看GPU使用者
 - sudo kill -9 PID 杀掉进程
 - CUDA_VISIBLE\_DEVICES=0 python xxx.py 指定GPU0
