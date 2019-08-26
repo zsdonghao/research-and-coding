@@ -90,3 +90,11 @@
 - MacOS - [Cyberduck](https://cyberduck.io)
 - Windows - [MobaXterm](https://mobaxterm.mobatek.net)
 - PyCharm
+
+## 8. TensorLayer
+- [Installation](https://tensorlayer.readthedocs.io/en/latest/user/installation.html)
+- [Dynamic and Static Models](https://tensorlayer.readthedocs.io/en/latest/user/get_start_model.html)
+- [Advanced Features](https://tensorlayer.readthedocs.io/en/latest/user/get_start_advance.html)
+- [Data Augmentation](https://tensorlayer.readthedocs.io/en/latest/modules/prepro.html#python-can-be-fast)
+- [Basic Tutorials](https://github.com/tensorlayer/tensorlayer/tree/master/examples/basic_tutorials) CIFAR10 has data augmentation
+- [A Good Project Template](https://github.com/tensorlayer/srgan)
