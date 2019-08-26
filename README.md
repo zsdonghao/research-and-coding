@@ -3,7 +3,7 @@
 ## 1. 科研起步
 
 ### 必读文章
-- 1.[Karpathy-博士经验](http://karpathy.github.io/2016/09/07/phd/)[(翻译)](https://m.sohu.com/a/125259752_465975/?pvid=000115_3w_a)
+- 1.[Karpathy-博士经验](http://karpathy.github.io/2016/09/07/phd/) [(翻译)](https://m.sohu.com/a/125259752_465975/?pvid=000115_3w_a) 重点
 - 2.[陈天奇-科研十年](https://zhuanlan.zhihu.com/p/74779853)
 - 3.[王一-科研idea](https://mp.weixin.qq.com/s/e78zRIgdEtGLKiqYcRJLHQ)
 - 4.[王赟-我的八年博士生涯](https://zhuanlan.zhihu.com/p/50597445)
