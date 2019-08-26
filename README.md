@@ -102,6 +102,7 @@
 ## 9. Deep Learning
 - [zsdonghao/deep-learning-note](https://github.com/zsdonghao/deep-learning-note)
 - [Distributed Training](https://blog.skymind.ai/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks/)
+- [TingFlow](https://github.com/tqchen/tinyflow) 教学性DL框架
 
 ## 10. Publishing Paper
 - [Conference DDL](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
