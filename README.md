@@ -99,12 +99,16 @@
 - [Basic Tutorials](https://github.com/tensorlayer/tensorlayer/tree/master/examples/basic_tutorials) CIFAR10 has data augmentation
 - [A Good Project Template](https://github.com/tensorlayer/srgan)
 
-## 9. Deep Learning
+## 9. Deep Learning 等
+- [NIPS 19 Subject Areas](https://nips.cc/Conferences/2019/PaperInformation/SubjectAreas)
+- [CVPR 19 Program Guide](http://cvpr2019.thecvf.com/files/CVPR_2019_Program_Guide.pdf)
 - [zsdonghao/deep-learning-note](https://github.com/zsdonghao/deep-learning-note)
 - [Distributed Training](https://blog.skymind.ai/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks/)
 - [TingFlow](https://github.com/tqchen/tinyflow) 教学性DL框架
+- [CVPR 2019 Paper list](http://openaccess.thecvf.com/CVPR2019.py)
 
 ## 10. Publishing Paper
 - [Conference DDL](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
 - [Grammarly](https://app.grammarly.com) 查语法错误
 - [Overleaf](http://overleaf.com) 协同编辑
+
