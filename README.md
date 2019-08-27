@@ -52,7 +52,13 @@
 - 新建organization
 - **练习：建立自己的个人主页**
 
-## 3. GPU
+## 2. 其他Coding
+- [YAPF](https://github.com/google/yapf) 一个Python代码格式自动调整工具
+- yapf xxx.py 显示如何调整一个py文件
+- yapf -i xxx.py 调整一个py文件，并覆盖原文件
+- yapf -i --recursive foldername 调整一个文件夹里的py文件，并覆盖原文件
+
+## 4. GPU
 - 目的
 - nvidia-smi 查看GPU使用情况
 - watch -n 1 nvidia-smi：每秒钟刷新GPU使用情况
@@ -66,7 +72,7 @@
 - top
 - htop
 
-## 4. Screen
+## 5. Screen
 - 目的：关闭当前Terminal/命令窗口，程序依然进行。
 - screen -S name 创建screen，并进入
 - screen -ls 查看screen列表
@@ -75,7 +81,7 @@
 - screen -d name 关闭screen
 - screen -X -S name kill 删除screen
 
-## 5. Virtualenv
+## 6. Virtualenv
 - 目的
 - [Installation](https://tensorlayer.readthedocs.io/en/latest/user/installation.html)
 - pip3 install virtualenv 安装virtualenv
@@ -83,7 +89,7 @@
 - source env/bin/activate 进入环境
 - deactivate 退出环境
 
-## 6. 文档
+## 7. 文档
 - 目的
 - [Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Readthedoc](https://readthedocs.org)
@@ -91,12 +97,12 @@
 	- https://tensorlayer.readthedocs.io
 - [RST and Sphinx syntax](https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html)
 
-## 7. 远程连接
+## 8. 远程连接
 - MacOS - [Cyberduck](https://cyberduck.io)
 - Windows - [MobaXterm](https://mobaxterm.mobatek.net)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 
-## 8. TensorLayer
+## 9. TensorLayer
 - [Installation](https://tensorlayer.readthedocs.io/en/latest/user/installation.html)
 - [Dynamic and Static Models](https://tensorlayer.readthedocs.io/en/latest/user/get_start_model.html)
 - [Advanced Features](https://tensorlayer.readthedocs.io/en/latest/user/get_start_advance.html)
@@ -105,7 +111,7 @@
 - [A Good Project Template](https://github.com/tensorlayer/srgan)
 - RL Tutorials [for Research](https://github.com/tensorlayer/tensorlayer/tree/master/examples/reinforcement_learning) / [for Production](https://github.com/tensorlayer/RLzoo)
 
-## 9. Deep Learning 等
+## 10. Deep Learning 等
 - [NIPS 19 Subject Areas](https://nips.cc/Conferences/2019/PaperInformation/SubjectAreas)
 - [CVPR 19 Program Guide](http://cvpr2019.thecvf.com/files/CVPR_2019_Program_Guide.pdf)
 - [CVPR 19 Paper list](http://openaccess.thecvf.com/CVPR2019.py) / [oral list](https://github.com/hoya012/CVPR-2019-Paper-Statistics/blob/master/2019_cvpr/cvpr_2019_oral.csv)
@@ -114,7 +120,7 @@
 - [Distributed Training](https://blog.skymind.ai/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks/)
 - [TingFlow](https://github.com/tqchen/tinyflow) 教学性DL框架
 
-## 10. Publishing Paper
+## 11. Publishing Paper
 - [Conference DDL](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
 - [Grammarly](https://app.grammarly.com) 查语法错误
 - [Overleaf](http://overleaf.com) 协同编辑
