@@ -53,6 +53,7 @@
 ## 3. GPU
 - 目的
 - nvidia-smi 查看GPU使用情况
+- watch -n 1 nvidia-smi：每秒钟刷新GPU使用情况
 - sudo fuser -v /dev/nvidia* 查看GPU使用者
 - sudo kill -9 PID 杀掉进程
 - CUDA_VISIBLE\_DEVICES=0 python xxx.py 指定GPU0
@@ -64,7 +65,7 @@
 - htop
 
 ## 4. Screen
-- 目的
+- 目的：关闭当前Terminal/命令窗口，程序依然进行。
 - screen -S name 创建screen，并进入
 - screen -ls 查看screen列表
 - screen -r name 进入screen
@@ -91,7 +92,7 @@
 ## 7. 远程连接
 - MacOS - [Cyberduck](https://cyberduck.io)
 - Windows - [MobaXterm](https://mobaxterm.mobatek.net)
-- PyCharm
+- [PyCharm](https://www.jetbrains.com/pycharm/)
 
 ## 8. TensorLayer
 - [Installation](https://tensorlayer.readthedocs.io/en/latest/user/installation.html)
@@ -114,4 +115,5 @@
 - [Conference DDL](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
 - [Grammarly](https://app.grammarly.com) 查语法错误
 - [Overleaf](http://overleaf.com) 协同编辑
-
+- LaTeX: [MacTex](http://www.tug.org/mactex/downloading.html) 
+- Best tool for using LaTeX locally: [VSCode](https://code.visualstudio.com/) + [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
