@@ -57,6 +57,10 @@
   - yapf xxx.py 显示如何调整一个py文件
   - yapf -i xxx.py 调整一个py文件，并覆盖原文件
   - yapf -i --recursive foldername 调整一个文件夹里的py文件，并覆盖原文件
+- [Python命名风格](https://www.jianshu.com/p/a793c0d960fe)
+  - 类 HelloClass
+  - 函数 hellp_function
+  - 等
 
 ## 4. GPU
 - 目的
