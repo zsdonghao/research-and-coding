@@ -53,7 +53,7 @@
 - 新建organization
 - **练习：建立自己的个人主页**
 
-## 2. 其他Coding
+## 3. 其他Coding
 - [YAPF](https://github.com/google/yapf) 一个Python代码格式自动调整工具
   - yapf xxx.py 显示如何调整一个py文件
   - yapf -i xxx.py 调整一个py文件，并覆盖原文件
