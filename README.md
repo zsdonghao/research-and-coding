@@ -16,9 +16,9 @@
 ### 信息收集
 - 1.[Google Scholar 如何查询相关文章](https://scholar.google.co.uk/scholar?hl=en&as_sdt=0%2C5&q=semantic+image+synthesis+via+adversarial+learning&btnG=)
 - 2.[Google Scholar 如何follow研究者](https://scholar.google.co.uk/citations?user=xLFL4sMAAAAJ&hl=en)
-- 3.[arXiv](https://arxiv.org)
-- 4.[arXiv-sanity](http://www.arxiv-sanity.com)
-- 5.[sci-hub](https://sci-hub.se) 例如输入这个：https://ieeexplore.ieee.org/document/8070331/
+- 3.[arXiv](https://arxiv.org) 未发表文章共享平台
+- 4.[arXiv-sanity](http://www.arxiv-sanity.com) 更好地搜索arXiv
+- 5.[sci-hub](https://sci-hub.se) 免费下载所有文章，例如输入这个：https://ieeexplore.ieee.org/document/8070331/
 - 6.[mendeley 文章整理APP](https://www.mendeley.com)
 
 ### 其他
