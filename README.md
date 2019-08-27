@@ -54,9 +54,9 @@
 
 ## 2. 其他Coding
 - [YAPF](https://github.com/google/yapf) 一个Python代码格式自动调整工具
-- yapf xxx.py 显示如何调整一个py文件
-- yapf -i xxx.py 调整一个py文件，并覆盖原文件
-- yapf -i --recursive foldername 调整一个文件夹里的py文件，并覆盖原文件
+  - yapf xxx.py 显示如何调整一个py文件
+  - yapf -i xxx.py 调整一个py文件，并覆盖原文件
+  - yapf -i --recursive foldername 调整一个文件夹里的py文件，并覆盖原文件
 
 ## 4. GPU
 - 目的
