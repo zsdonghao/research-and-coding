@@ -101,6 +101,7 @@
 - [Data Augmentation](https://tensorlayer.readthedocs.io/en/latest/modules/prepro.html#python-can-be-fast)
 - [Basic Tutorials](https://github.com/tensorlayer/tensorlayer/tree/master/examples/basic_tutorials) CIFAR10 has data augmentation
 - [A Good Project Template](https://github.com/tensorlayer/srgan)
+- RL Tutorials [for Research](https://github.com/tensorlayer/tensorlayer/tree/master/examples/reinforcement_learning) / [for Production](https://github.com/tensorlayer/RLzoo)
 
 ## 9. Deep Learning 等
 - [NIPS 19 Subject Areas](https://nips.cc/Conferences/2019/PaperInformation/SubjectAreas)
