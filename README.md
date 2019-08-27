@@ -30,6 +30,8 @@
 - 创建账号
 - 建立Repository
 - git init 初始化
+- 随便添加一个.txt文件
+- git diff 查看当前本地修改了什么
 - git add xxx.txt 添加xxx.txt到git
 - git add -A 添加所有文件到git
 - git commit -m "hahahah" 添加注释
