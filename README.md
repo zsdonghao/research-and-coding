@@ -116,7 +116,7 @@
 - [A Good Project Template](https://github.com/tensorlayer/srgan)
 - RL Tutorials [for Research](https://github.com/tensorlayer/tensorlayer/tree/master/examples/reinforcement_learning) / [for Production](https://github.com/tensorlayer/RLzoo)
 
-## 10. Deep Learning 等
+## 10. Machine Learning, Computer Vision, Graphics 等
 - [NIPS 19 Subject Areas](https://nips.cc/Conferences/2019/PaperInformation/SubjectAreas)
 - [CVPR 19 Program Guide](http://cvpr2019.thecvf.com/files/CVPR_2019_Program_Guide.pdf)
 - [CVPR 19 Paper list](http://openaccess.thecvf.com/CVPR2019.py) / [oral list](https://github.com/hoya012/CVPR-2019-Paper-Statistics/blob/master/2019_cvpr/cvpr_2019_oral.csv)
