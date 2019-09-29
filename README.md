@@ -124,6 +124,7 @@
 - [SIGGRAPH 19 Technical Papers Fast Forward](https://www.youtube.com/watch?v=iDUNc5YRtzk)/ [Paper List](http://kesen.realtimerendering.com/sig2019.html)
 - [zsdonghao/deep-learning-note](https://github.com/zsdonghao/deep-learning-note)
 - [Distributed Training](https://blog.skymind.ai/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks/)
+- [机器学习-白板推导系列](https://search.bilibili.com/all?keyword=机器学习-白板推导系列&from_source=nav_search)
 - [TingFlow](https://github.com/tqchen/tinyflow) 教学性DL框架
 
 ## 11. Publishing Paper
