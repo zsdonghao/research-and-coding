@@ -118,9 +118,9 @@
 
 ## 10. Machine Learning, Computer Vision, Graphics 等
 - [DeepMind Research](https://deepmind.com/research)
-- [NIPS 19 Subject Areas](https://nips.cc/Conferences/2019/PaperInformation/SubjectAreas)
+- 顶会论文列表 [NIPS各年](https://papers.nips.cc)，[NIPS2019](https://nips.cc/Conferences/2019/Schedule?type=Poster)，[ICLR2019](https://iclr.cc/Conferences/2019/Schedule?type=Poster)，[ICML2019](https://iclr.cc/Conferences/2019/Schedule?type=Poster), [ACL](http://www.acl2019.org/EN/program.xhtml), [AAAI2019](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf), [CVPR2019](http://openaccess.thecvf.com/CVPR2019.py) / [oral list](https://github.com/hoya012/CVPR-2019-Paper-Statistics/blob/master/2019_cvpr/cvpr_2019_oral.csv)
+- [NIPS 19 Subject Areas](https://nips.cc/Conferences/2019/PaperInformation/SubjectAreas) 看都有什么方向
 - [CVPR 19 Program Guide](http://cvpr2019.thecvf.com/files/CVPR_2019_Program_Guide.pdf)
-- [CVPR 19 Paper list](http://openaccess.thecvf.com/CVPR2019.py) / [oral list](https://github.com/hoya012/CVPR-2019-Paper-Statistics/blob/master/2019_cvpr/cvpr_2019_oral.csv)
 - [SIGGRAPH 19 Technical Papers Fast Forward](https://www.youtube.com/watch?v=iDUNc5YRtzk)/ [Paper List](http://kesen.realtimerendering.com/sig2019.html)
 - [zsdonghao/deep-learning-note](https://github.com/zsdonghao/deep-learning-note)
 - [Distributed Training](https://blog.skymind.ai/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks/)
