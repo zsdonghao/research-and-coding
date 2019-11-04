@@ -3,7 +3,7 @@
 欢迎大家一起丰富内容～～～😄
 
 ## 0. 论文列表
-- [arxiv-sanity recent top](http://www.arxiv-sanity.com/top)
+- [arxiv-sanity yearly top](http://www.arxiv-sanity.com/top?timefilter=year&vfilter=all)
 - ICLR2020 / [openreview](https://openreview.net/group?id=ICLR.cc/2020/Conference)
 - [NIPS各年](https://papers.nips.cc)
 - [NIPS2019](https://nips.cc/Conferences/2019/Schedule?type=Poster)
