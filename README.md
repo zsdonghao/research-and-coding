@@ -3,7 +3,7 @@
 欢迎大家一起丰富内容～～～😄
 
 ## 0. 论文列表
-- [ICLR2019](https://iclr.cc/Conferences/2019/Schedule?type=Poster)
+- [ICLR2019](https://iclr.cc/Conferences/2019/Schedule?type=Poster) / [goodfellow talk](https://www.youtube.com/watch?v=sucqskXRkss)
 - [NIPS各年](https://papers.nips.cc)
 - [NIPS2019](https://nips.cc/Conferences/2019/Schedule?type=Poster)
 - [ICML2019](https://icml.cc/Conferences/2019/Schedule?type=Poster) / [oral video](https://www.youtube.com/results?search_query=icml+2019+oral)
