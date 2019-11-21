@@ -67,7 +67,7 @@
 - .gitignore 自定义不能被添加的文件
 - 添加collaborator
 - 新建organization
-- **练习：建立自己的个人主页**
+- **练习：建立自己的个人主页** [我的例子](https://github.com/zsdonghao/zsdonghao.github.io)
 
 ## 3. 其他Coding
 - [YAPF](https://github.com/google/yapf) 一个Python代码格式自动调整工具
