@@ -78,6 +78,8 @@
   - 类 HelloClass
   - 函数 hello_function
   - 等
+- 清华源, 镜像加速安装包
+  - pip install -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
 
 ## 4. GPU
 - 目的
