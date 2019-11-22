@@ -80,6 +80,8 @@
   - 等
 - 清华源, 镜像加速安装包
   - pip install -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
+- 其他
+  - [吴润迪整理](https://github.com/ChrisWu1997/EfficientResearchWork)
 
 ## 4. GPU
 - 目的
