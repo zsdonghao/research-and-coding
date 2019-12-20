@@ -12,7 +12,7 @@
 - [ACL2019](http://www.acl2019.org/EN/program.xhtml)
 - [AAAI2019](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)
 - [CVPR2019](http://openaccess.thecvf.com/CVPR2019.py) / [oral list](https://github.com/hoya012/CVPR-2019-Paper-Statistics/blob/master/2019_cvpr/cvpr_2019_oral.csv) / [oral app video](https://www.youtube.com/watch?v=ts4ogdJW4_8) [oral dl video](https://www.youtube.com/watch?v=PzALQZOy09c) 网上有很多公开会议视频
-- [ICCV2019](http://openaccess.thecvf.com/ICCV2019.py)
+- [ICCV2019](http://openaccess.thecvf.com/ICCV2019.py) / [paper分组](http://iccv2019.thecvf.com/program/main_conference)
 - [SIGGRAPH2019 Technical Papers Fast Forward](https://www.youtube.com/watch?v=iDUNc5YRtzk)/ [Paper List](http://kesen.realtimerendering.com/sig2019.html)
 - [DeepMind Research](https://deepmind.com/research) 看AI都有什么方向
 - [NIPS 19 Subject Areas](https://nips.cc/Conferences/2019/PaperInformation/SubjectAreas) 看DL都有什么方向
