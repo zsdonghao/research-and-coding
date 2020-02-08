@@ -28,6 +28,7 @@
 - 5.[李沐-博士这五年](https://zhuanlan.zhihu.com/p/25099638)
 - 6.[毕业撒花](https://mp.weixin.qq.com/s/j8EuhusTNlE60m8IC4ftGA)
 - 7.[帝国理工-博士手册（Doctoral Milestones）](https://www.doc.ic.ac.uk/research/phd/phdmatters/handbook_PhD_2018.pdf)
+- 8.[Opinionated guide ML research](http://joschu.net/blog/opinionated-guide-ml-research.html)
 
 ### 信息收集
 - 1.[Google Scholar 如何查询相关文章](https://scholar.google.co.uk/scholar?hl=en&as_sdt=0%2C5&q=semantic+image+synthesis+via+adversarial+learning&btnG=)
