@@ -83,6 +83,7 @@
   - pip install -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
 - 其他
   - [吴润迪整理](https://github.com/ChrisWu1997/EfficientResearchWork)
+  - [Python Best Practices Guidebook](https://docs.python-guide.org/)
 
 ## 4. GPU
 - 目的
