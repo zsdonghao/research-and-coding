@@ -39,8 +39,9 @@
 - 6.[mendeley 文章整理APP](https://www.mendeley.com)
 
 ### 其他
-- 1.[蓝灯](https://github.com/getlantern/forum) 邀请码 Y238YKH
-- 2.[旋风 APP](https://www.lcdhgy.com)
+- 1.[蓝灯 fanqiang](https://github.com/getlantern/forum) 邀请码 Y238YKH
+- 2.[谷歌学术 镜像](http://scholar.hedasudi.com)
+- 3.[无license下载paper](https://sci-hub.se)
 
 ## 2. Github
 - Github历史和目的
