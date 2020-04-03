@@ -144,6 +144,7 @@
 - [Distributed Training](https://blog.skymind.ai/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks/) 
 - [机器学习-白板推导系列](https://search.bilibili.com/all?keyword=机器学习-白板推导系列&from_source=nav_search)
 - [TingFlow](https://github.com/tqchen/tinyflow) 教学性DL框架
+- [papers with code](https://paperswithcode.com/sota)
 
 ## 11. Publishing Paper
 - [Conference DDL](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
