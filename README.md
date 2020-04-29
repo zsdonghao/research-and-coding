@@ -36,7 +36,9 @@
 - 3.[arXiv](https://arxiv.org) 未发表文章共享平台
 - 4.[arXiv-sanity](http://www.arxiv-sanity.com) 更好地搜索arXiv
 - 5.[sci-hub](https://sci-hub.se) 免费下载所有文章，例如输入这个：https://ieeexplore.ieee.org/document/8070331/
-- 6.[mendeley 文章整理APP](https://www.mendeley.com)
+- 6.[Zlibrary](https://b-ok.cc/s/deep%20reinforcement%20learning) 免费下载书
+- 7.[mendeley 文章整理APP](https://www.mendeley.com)
+
 
 ### 其他
 - 1.[蓝灯](https://github.com/getlantern/forum) 邀请码 Y238YKH (现在不行了，用 摘星 吧)
