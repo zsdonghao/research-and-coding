@@ -41,7 +41,7 @@
 
 
 ### 其他
-- 1.[蓝灯](https://github.com/getlantern/forum) 邀请码 Y238YKH (现在不行了，用 摘星 吧)
+- 1.[摘星](https://user.zxcloud.club/user)
 - 2.[谷歌学术 镜像](http://scholar.hedasudi.com)
 - 3.[无license下载paper](https://sci-hub.se)
 
