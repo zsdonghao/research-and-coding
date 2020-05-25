@@ -131,6 +131,7 @@
 - MacOS - [Cyberduck](https://cyberduck.io)
 - Windows - [MobaXterm](https://mobaxterm.mobatek.net)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
+- 传输大文件 http://wetransfer.com
 
 ## 9. TensorLayer
 - [Installation](https://tensorlayer.readthedocs.io/en/latest/user/installation.html)
